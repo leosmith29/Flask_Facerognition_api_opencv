@@ -1,0 +1,5 @@
+opencv-contrib-python
+Flask==0.11.1
+Flask_Api
+pillow
+pandas
